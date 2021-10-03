@@ -1,0 +1,30 @@
+3 MPPL YANG MEWAKILI KLASIK(TRADISIONAL), MAUPUN AGILE
+
+=> 3 MPPL MEWAKILI KLASIK (TRADISIONAL)
+1. Metode Waterfall
+    Waterfall merupakan metode pengembangan perangkat lunak tradisional yang sistematis. 
+    Metode ini memiliki lima tahapan proses, di antaranya Communication, Planning, Modeling, Construction, dan Deployment.
+
+2. Metode Prototype
+    Prototype dalam bahasa Indonesia diartikan dengan istilah purwarupa. Istilah tersebut berarti model awal atau rancangan 
+    sementara yang masih membutuhkan berbagai penyesuaian sebelum dinyatakan telah memenuhi hasil yang diinginkan. Terdapat lima tahapan dalam 
+    pengembangan perangkat lunak menggunakan metode prototype. Dimulai dengan pengumpulan informasi dari pelanggan ke tim pengembang. Lalu, tim akan merencanakan sistem dan mengerjakan purwarupa perangkat lunak.
+
+3. Metode Spiral
+    Metode spiral menggabungkan dua metode pengembangan yang telah dibahas sebelumnya, yaitu prototype dan waterfall. Pengembang melaksanakan 
+    prototyping dengan cara sistematis khas metode waterfall. Umumnya metode spiral diterapkan dalam pengembangan perangkat lunak berskala besar, 
+    sekaligus membutuhkan sistem yang kompleks. Setiap prosesnya selalu disertai dengan analisis mendalam mengenai tingkat risiko dan keberhasilan pengembangan.
+
+=> 3 MPPL MEWAKILI AGILE <=
+1. Adaptive Software Development (ASD)
+    Adaptive Software Development (ASD) adalah teknik untuk membangun software dan sistem yang kompleks. 
+    Filosofi yang mendasari metode ini adalah kolaborasi manusia dan tim yang mengatur diri sendiri.
+    
+2. Agile Modelling (AM)
+    Agile Modelling (AM) adalah suatu metodologi yang praktis untuk proses dokumentasi dan pemodelan sistem perangkat lunak. 
+    Agile Modeling sendiri adalah kumpulan nilai-nilai, prinsip dan praktek-praktek untuk memodelkan perangkat lunak agar dapat diaplikasian pada proyek 
+    pengembangan perangkat lunak secara efektif dan efisien.
+    
+3. Dynamic System Development Method (DSDM)
+    Dynamic System Development Method (DSDM) adalah suatu kerangka dalam pengembangan project perangkat lunak. Pendekatan yang digunakan adalah pendekatan 
+    iteratif dan inkremental yang mencakup prinsip-prinsip pembangunan Agile, termasuk keterlibatan pengguna atau pelanggan secara terus-menerus.
